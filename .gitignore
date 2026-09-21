@@ -40,3 +40,6 @@ crashlytics-build.properties
 # Sistema operacional
 .DS_Store
 Thumbs.db
+
+# Claude Code (configuração local, não faz parte do jogo)
+.claude/
